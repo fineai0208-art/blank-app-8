@@ -231,8 +231,6 @@ LO = dict(
     plot_bgcolor=PBG,
     margin=dict(l=10, r=10, t=36, b=10),
     font=dict(family="Noto Sans KR, sans-serif", size=11, color="#94a3b8"),
-    xaxis=dict(gridcolor="#1e293b", zeroline=False),
-    yaxis=dict(gridcolor="#1e293b", zeroline=False),
 )
 
 # ════════ TAB 1: 연도별 추이 ══════════════════════════════════════════════════
